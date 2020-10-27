@@ -1,0 +1,18 @@
+G:\2017 Fall\ITS 245\Group Final Project\MyFinalTabbed\MyFinalTabbed\bin\Debug\MyFinalTabbed.exe.config
+G:\2017 Fall\ITS 245\Group Final Project\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.csprojResolveAssemblyReference.cache
+G:\2017 Fall\ITS 245\Group Final Project\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.Form1.resources
+G:\2017 Fall\ITS 245\Group Final Project\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.Properties.Resources.resources
+G:\2017 Fall\ITS 245\Group Final Project\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.csproj.GenerateResource.Cache
+G:\2017 Fall\ITS 245\Group Final Project\MyFinalTabbed\MyFinalTabbed\bin\Debug\MyFinalTabbed.exe
+G:\2017 Fall\ITS 245\Group Final Project\MyFinalTabbed\MyFinalTabbed\bin\Debug\MyFinalTabbed.pdb
+G:\2017 Fall\ITS 245\Group Final Project\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.exe
+G:\2017 Fall\ITS 245\Group Final Project\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.pdb
+C:\Users\relliMnoraA\Desktop\Fall 2017\MyFinalTabbed\MyFinalTabbed\bin\Debug\MyFinalTabbed.exe.config
+C:\Users\relliMnoraA\Desktop\Fall 2017\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.exe
+C:\Users\relliMnoraA\Desktop\Fall 2017\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.pdb
+C:\Users\relliMnoraA\Desktop\Fall 2017\MyFinalTabbed\MyFinalTabbed\bin\Debug\MyFinalTabbed.exe
+C:\Users\relliMnoraA\Desktop\Fall 2017\MyFinalTabbed\MyFinalTabbed\bin\Debug\MyFinalTabbed.pdb
+C:\Users\relliMnoraA\Desktop\Fall 2017\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.csprojResolveAssemblyReference.cache
+C:\Users\relliMnoraA\Desktop\Fall 2017\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.Form1.resources
+C:\Users\relliMnoraA\Desktop\Fall 2017\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.Properties.Resources.resources
+C:\Users\relliMnoraA\Desktop\Fall 2017\MyFinalTabbed\MyFinalTabbed\obj\Debug\MyFinalTabbed.csproj.GenerateResource.Cache
